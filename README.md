@@ -20,7 +20,7 @@ Capture payments via major credit and debit cards in your Magento 2 store only w
 
 * Easy integration using store ID, shared secret key, and the gateway URL obtained while the registration with the First Data ICICI
 
-** Offers the below payment modes: **
+*** Offers the below payment modes: ***
 
 -PayOnly mode
 
@@ -28,7 +28,7 @@ Capture payments via major credit and debit cards in your Magento 2 store only w
 
 -FullPay mode
 
-** Supports multiple languages for the hosted payment page **
+*** Supports multiple languages for the hosted payment page ***
 
 -German
 
