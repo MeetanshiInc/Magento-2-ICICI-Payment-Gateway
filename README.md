@@ -54,6 +54,6 @@ Capture payments via major credit and debit cards in your Magento 2 store only w
 
 * Let the admin check the First Data ICICI payment details in the Sales order view section in the backend.
 
-For more information, visit [https://meetanshi.com/magento-2-icici-payment-gateway.html](https://meetanshi.com/magento-2-icici-payment-gateway.html)
+For more information, visit ***[https://meetanshi.com/magento-2-icici-payment-gateway.html](https://meetanshi.com/magento-2-icici-payment-gateway.html)***
 
 
